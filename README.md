@@ -1,7 +1,5 @@
 # Fashion GANs
 
-# Fashion GANs with MNIST
-
 ## Overview
 
 This project implements a Generative Adversarial Network (GAN) to generate fashion item images using the MNIST dataset. GANs are a class of deep learning models that can generate data samples that resemble a given dataset. In this case, we aim to generate realistic images of various fashion items such as shoes, shirts, and dresses.
